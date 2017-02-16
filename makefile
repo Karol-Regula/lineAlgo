@@ -18,4 +18,7 @@ run: main
 	./main
 
 clean:
-	rm *.o *~
+	rm *.o
+	rm *.png
+	rm main
+	rm *~
